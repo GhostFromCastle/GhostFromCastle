@@ -1,4 +1,19 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ghost</h1>
+<h3 align="center">Developer from Russia</h3>
+
+- 🔭 I’m currently working on **Over your own server in Minecraft**
+
+- 🌱 I’m currently learning **Over databases, programming languages, and websites**
+
+- 👯 I’m looking to collaborate on **In various fields**
+
+- 🤝 I’m looking for help with **Awareness of other languages**
+
+- 👨‍💻 All of my projects are available at [https://github.com/GhostFromCastle](https://github.com/GhostFromCastle)
+
+- 💬 Ask me about **What you're interested in**
+
+- 📫 How to reach me **https://t.me/ghost_from_castle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
