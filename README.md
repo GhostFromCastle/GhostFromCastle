@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **What you're interested in**
 
-- 📫 How to reach me **https://t.me/ghost_from_castle**
-
 <h3 align="left">Connect with me: https://t.me/ghost_from_castle</h3>
 <p align="left">
 </p>
