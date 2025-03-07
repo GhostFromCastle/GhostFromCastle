@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Awareness of other languages**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GhostFromCastle](https://github.com/GhostFromCastle)
+- 👨‍💻 All of my projects are available at [https://github.com/GhostFromCastle](https://github.com/GhostFromCastle) (You are already here)
 
 - 💬 Ask me about **What you're interested in**
 
